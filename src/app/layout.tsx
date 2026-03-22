@@ -15,6 +15,9 @@ const poppins = Poppins({
 export const metadata: Metadata = {
   title: 'EvorraX | AI Automation Agency',
   description: 'We build AI-powered automation systems that help businesses save time, reduce operational cost, and increase revenue.',
+  verification: {
+    google: '-YVxrrSGVeBvL8W4Cw678lE_rn16jyaik5NZkYlo96A',
+  },
 };
 
 export default function RootLayout({
